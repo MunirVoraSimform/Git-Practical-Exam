@@ -1,0 +1,1 @@
+document.getElementById("heading").innerText = "This is heading 1"

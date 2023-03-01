@@ -65,7 +65,7 @@
     git rebase -i HEAD~2
 ``` 
 - This command will open text editor with last to commits, Like below
-![Terminal Image](https://simformsolutionspvtltd-my.sharepoint.com/:i:/r/personal/munir_v_simformsolutions_com/Documents/Git%20Practical%20Exam/Screenshot%202023-03-01%20at%204.38.15%20PM.png?csf=1&web=1&e=OLHg4o)
+![Screenshot](https://user-images.githubusercontent.com/124777843/222132626-17d5af8e-6afe-42fc-b4c8-af830c14d4c2.jpg)
 - Now put "drop" instead of "pick" in which commit we want to remove
 - Exit the text editor
 - The commit has been removed
